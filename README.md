@@ -26,4 +26,3 @@ Desarrollador Full Stack con experiencia en el área de desarrollo web y aplicac
 | :--- | :--- | :--- | :--- |
 | **Portafolio Web** | Sitio web personal interactivo | HTML5 · CSS3 · JavaScript | [Ver sitio](https://davidportafolio.web.app/) |
 | **Graphicdemia** | Plataforma / aplicación web | HTML5 · CSS3 · Firebase | [Ver sitio](https://graphicdemia-adbcc.web.app/index.html) |
-| **node-restserver-basic** | Estructura básica de un REST Server | Node.js · Express.js · JavaScript | - |
