@@ -24,8 +24,8 @@
 ## 🚀 Proyectos Destacados
 | Proyecto | Descripción | Stack | Demo / Link |
 | :--- | :--- | :--- | :--- |
-| **Portafolio Web** | Sitio web personal interactivo | HTML5 · CSS3 · JavaScript | [Ver sitio](https://davidportafolio.web.app/) |
-| **Graphicdemia** | Plataforma / aplicación web | HTML5 · CSS3 · Firebase | [Ver sitio](https://graphicdemia-adbcc.web.app/index.html) |
+| **Portafolio Web** | Sitio web personal interactivo | HTML5 · CSS3 · JavaScript · Firebase | [Ver sitio](https://davidportafolio.web.app/) |
+| **Graphicdemia** | Plataforma / aplicación web | HTML5 · CSS3 · JavaScript · Firebase | [Ver sitio](https://graphicdemia-adbcc.web.app/index.html) |
 
 ### ⚙️ &nbsp;GitHub Analytics
 
