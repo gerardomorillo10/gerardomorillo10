@@ -1,10 +1,9 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1572B6,100:0077B5&height=220&section=header&text=Full%20Stack%20Developer&subtitle=Building%20scalable%20web%20solutions%20%26%20REST%20APIs&fontSize=38&subFontSize=18&fontColor=ffffff&animation=fadeIn)
 
 ## 👨‍💻 Sobre mí
-Ingeniero de Software / Desarrollador Full Stack con experiencia en entornos web y de escritorio.
-
 * 🛠️ **Desarrollo Web & REST APIs:** Diseño y construcción de soluciones integrales de principio a fin.
 * ⚙️ **Optimización & Rendimiento:** Creación de aplicaciones robustas, escalables y mantenibles.
+* 🚀 **Apasionado por:** El código limpio, la arquitectura de software y el aprendizaje continuo.
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gerardomorillo10)
 [![Gmail](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gerardomorillo10@gmail.com)
