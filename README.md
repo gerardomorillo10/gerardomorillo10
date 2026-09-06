@@ -1,4 +1,5 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1572B6,100:0077B5&height=220&section=header&text=Gerardo%20Morillo&subtitle=Full%20Stack%20Developer&fontSize=40&subFontSize=20&fontColor=ffffff&animation=fadeIn)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1572B6,100:0077B5&height=220&section=header&text=Full%20Stack%20Developer&subtitle=Building%20scalable%20web%20solutions%20%26%20REST%20APIs&fontSize=38&subFontSize=18&fontColor=ffffff&animation=fadeIn)
+
 ## 👨‍💻 Sobre mí
 Ingeniero de Software / Desarrollador Full Stack con experiencia en entornos web y de escritorio.
 
@@ -36,4 +37,8 @@ Ingeniero de Software / Desarrollador Full Stack con experiencia en entornos web
   <a href="https://github.com/gerardomorillo10">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gerardomorillo10&layout=compact&langs_count=8&theme=algolia"/>
   </a>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gerardomorillo10&theme=algolia&hide_border=true"/>
 </p>
