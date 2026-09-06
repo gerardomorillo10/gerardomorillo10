@@ -5,7 +5,7 @@ Ingeniero de Software / Desarrollador Full Stack con experiencia en entornos web
 
 * 🛠️ **Desarrollo Web & REST APIs:** Diseño y construcción de soluciones integrales de principio a fin.
 * ⚙️ **Optimización & Rendimiento:** Creación de aplicaciones robustas, escalables y mantenibles.
-
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1572B6,100:0077B5&height=220&section=header&text=Gerardo%20Morillo&subtitle=Full%20Stack%20Developer&fontSize=40&subFontSize=20&fontColor=ffffff&animation=fadeIn)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gerardomorillo10)
 [![Gmail](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gerardomorillo10@gmail.com)
 
