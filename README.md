@@ -38,7 +38,3 @@ Desarrollador Full Stack con experiencia en el área de desarrollo web y aplicac
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gerardomorillo10&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gerardomorillo10&theme=dark&hide_border=true"/>
-</p>
