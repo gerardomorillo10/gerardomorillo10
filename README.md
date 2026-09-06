@@ -1,4 +1,4 @@
-# ¡Hola! Soy Gerardo Morillo 👋
+# Gerardo Morillo 👋
 
 ## 👨‍💻 Sobre mí
 Desarrollador Full Stack con experiencia en el área de desarrollo web y aplicaciones de escritorio.
