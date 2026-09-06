@@ -1,4 +1,4 @@
-# Gerardo Morillo 👋
+# ¡Hola! Soy Gerardo Morillo 👋
 
 ## 👨‍💻 Sobre mí
 Desarrollador Full Stack con experiencia en el área de desarrollo web y aplicaciones de escritorio.
@@ -27,3 +27,19 @@ Desarrollador Full Stack con experiencia en el área de desarrollo web y aplicac
 | :--- | :--- | :--- | :--- |
 | **Portafolio Web** | Sitio web personal interactivo | HTML5 · CSS3 · JavaScript | [Ver sitio](https://davidportafolio.web.app/) |
 | **Graphicdemia** | Plataforma / aplicación web | HTML5 · CSS3 · Firebase | [Ver sitio](https://graphicdemia-adbcc.web.app/index.html) |
+| **node-restserver-basic** | Estructura básica de un REST Server | Node.js · Express.js · JavaScript | - |
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/gerardomorillo10">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gerardomorillo10&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/gerardomorillo10">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gerardomorillo10&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gerardomorillo10&theme=dark&hide_border=true"/>
+</p>
