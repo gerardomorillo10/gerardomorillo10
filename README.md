@@ -1,10 +1,10 @@
 # Gerardo Morillo 👋
 
 ## 👨‍💻 Sobre mí
-Desarrollador Full Stack con experiencia en el área de desarrollo web y aplicaciones de escritorio.
+Ingeniero de Software / Desarrollador Full Stack con experiencia en entornos web y de escritorio.
 
-* 🚀 **Especialidad:** Desarrollo Frontend y Backend.
-* 🛠️ **Enfoque:** Construcción de soluciones web robustas, servidores REST y consumo de APIs.
+* 🛠️ **Desarrollo Web & REST APIs:** Diseño y construcción de soluciones integrales de principio a fin.
+* ⚙️ **Optimización & Rendimiento:** Creación de aplicaciones robustas, escalables y mantenibles.
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gerardomorillo10)
 [![Gmail](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gerardomorillo10@gmail.com)
