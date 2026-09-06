@@ -1,6 +1,6 @@
 # ¡Hola! Soy Gerardo Morillo 👋
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gerardomorillo10)
 [![Gmail](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gerardomorillo10@gmail.com)
 
 ## 👨‍💻 Sobre mí
@@ -19,9 +19,11 @@ Desarrollador Full Stack con experiencia en el área de desarrollo web y aplicac
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
 
 ## 🚀 Proyectos Destacados
-| Proyecto | Descripción | Stack |
-| :--- | :--- | :--- |
-| **node-restserver-basic** | Estructura básica de un REST Server en Node.js y Express.js | Node.js · Express · JavaScript |
-| **graphicdemia** | Proyecto web en HTML/CSS | HTML5 · Web |
+| Proyecto | Descripción | Stack | Demo / Link |
+| :--- | :--- | :--- | :--- |
+| **Portafolio Web** | Sitio web personal interactivo | HTML5 · CSS3 · JavaScript | [Ver sitio](https://davidportafolio.web.app/) |
+| **Graphicdemia** | Plataforma / aplicación web | HTML5 · CSS3 · Firebase | [Ver sitio](https://graphicdemia-adbcc.web.app/index.html) |
+| **node-restserver-basic** | Estructura básica de un REST Server | Node.js · Express.js · JavaScript | - |
