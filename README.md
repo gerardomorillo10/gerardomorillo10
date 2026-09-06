@@ -5,7 +5,7 @@
 * ⚙️ **Optimización & Rendimiento:** Creación de aplicaciones robustas, escalables y mantenibles.
 * 🚀 **Apasionado por:** El código limpio, la arquitectura de software y el aprendizaje continuo.
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gerardomorillo10)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerardo-morillo-aa673713a/)
 [![Gmail](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gerardomorillo10@gmail.com)
 
 ## 💻 Stack & Herramientas
